@@ -1,0 +1,74 @@
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: 900;
+    color: crimson; 
+    font-style: normal;
+    letter-spacing: 2px;
+}
+.paragraph{
+    font-size: larger;
+    color:goldenrod;
+    font-style: italic;
+    letter-spacing: 5px;
+    font-weight: 700;
+}
+.list{
+    color: brown;
+    line-height: 50px; 
+    
+    
+
+}
+.text{
+    font-style: oblique;
+    font-size: medium;
+    color: firebrick;
+    letter-spacing: 1px;
+}
+.abc{
+    letter-spacing: 7px;
+    color:red;
+    font-style: normal;
+}
+.xyz{
+   color: crimson;
+}
+.link{
+    color: goldenrod;
+}
+.li{
+    text-decoration: underline;
+}
+.vi{
+    text-decoration: line-through crimson;
+}
+.gi{
+ text-decoration: line-through ;
+ font-style: bold;
+}
+.gt{
+    background-color: yellow;
+}
+.sc{
+    background-color: yellow;
+}
+.cv{
+    background-color: yellow;
+}
+h1{
+    color:red;
+}
+.mg{
+    font-size:100px;
+    font-style: italic;
+    font-weight:1000px;
+    color:palevioletred;
+    font: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.img{
+    padding-left: 500px;
+    
+}
